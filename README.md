@@ -1,22 +1,22 @@
-# Photography website's Landing page using HTML & CSS
+# Cake website animated login page
 
-Dive into LensVerse, where elegance meets animation. Experience the magic of photography with my sleek, responsive design—where transparency and motion dance in perfect harmony. CSS brilliance, modern style, and visual enchantment await your hover.
+Step into Cake Website – where elegance meets innovation. Our glassy animated card welcomes you with modern transparency and captivating motion, showcasing CSS magic at its finest. Experience the sweet blend of style and functionality in every login and sign-up, a treat for the senses.
 
 ## Demo Video
 
 Watch my demo video to see these animations in action:
 
-https://github.com/sajithkavishan/LensVerse-Landing-Page/assets/131157256/82453505-5f8d-43e1-8bc1-b3b2008b5cef
+https://github.com/sajithkavishan/Animated_login-Page/assets/131157256/34dfa2fc-2b88-407b-afca-f9d32aaaba03
 
 ## Images
 
-![Screenshot (38)](https://github.com/sajithkavishan/LensVerse-Landing-Page/assets/131157256/0f3a1fcc-0a3a-4edc-97aa-2378e24b6412)
+![Screenshot (38)](https://github.com/sajithkavishan/Animated_login-Page/assets/131157256/5360882c-e268-4e38-9597-9d9a6e731692)
 
 ## Features
 
-- Sleek Design: Immerse yourself in a sleek and modern interface that exudes sophistication.
-- CSS Animation: The use of CSS animations adds a dynamic touch to the card, providing an engaging and interactive user experience.
-- Transparency Blend: Witness the mesmerizing blend of transparency, creating a stylish and contemporary display.
+- Modern Stylish Display: Immerse yourself in a modern and stylish visual presentation.
+                          The design reflects contemporary aesthetics, providing users with an engaging and up-to-date experience.
+- Functionality with Beauty: Each login and sign-up interaction is designed to be not only efficient but also a visually pleasing experience.
 - User-Friendly Navigation: Effortlessly navigate through LensVerse with a hover-activated navigation bar for a smooth user experience.
 - Hover Interactivity: The card responds to user interaction, with a subtle rotation animation and changes in opacity on hover, enhancing the overall interactivity and user engagement.
 - Code Organization: The CSS code is well-organized and commented, making it easy to understand and maintain.
