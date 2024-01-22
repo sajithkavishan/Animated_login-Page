@@ -28,7 +28,7 @@ https://github.com/sajithkavishan/LensVerse-Landing-Page/assets/131157256/824535
 
 ## Community
 
-Join my community of designers and developers to share insights and contributions. We value your feedback and ideas for improvements.
+Join my community of designers and developers to share insights and contributions.Im value your feedback and ideas for improvements.
 
 ## Connect with Me
 
