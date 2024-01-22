@@ -8,8 +8,9 @@
 }
 
 body{
-    background-color: #c9d6ff;
-    background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+    background-image: linear-gradient(rgba(246, 53, 211, 0.2), rgba(246, 113, 215, 0.2), rgba(246, 46, 229, 0.2)) ,url(../../assets/bg.jpg);
+    background-position: center;
+    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -47,22 +48,45 @@ body{
 }
 
 .container button{
-    background-color: #512da8;
+    background-color: #E2007A;
     color: #fff;
     font-size: 12px;
     padding: 10px 45px;
-    border: 1px solid transparent;
+    border: 2px solid transparent;
     border-radius: 8px;
     font-weight: 600;
     letter-spacing: 0.5px;
     text-transform: uppercase;
     margin-top: 10px;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 .container button.hidden{
     background-color: transparent;
     border-color: #fff;
+    border: 2px solid white;
+}
+
+.container button.hidden:hover {
+    background-color: transparent;
+    color: black;
+    border: 2px solid black;
+}
+
+.container button:hover {
+    background-color: transparent;
+    color: #E2007A;
+    font-size: 12px;
+    padding: 10px 45px;
+    border: 2px solid #E2007A;
+    border-radius: 8px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: 0.3s;
 }
 
 .container form{
@@ -133,7 +157,7 @@ body{
 }
 
 .social-icons a{
-    border: 1px solid #ccc;
+    border: 1.5px solid #E2007A;
     border-radius: 20%;
     display: inline-flex;
     justify-content: center;
@@ -141,6 +165,21 @@ body{
     margin: 0 3px;
     width: 40px;
     height: 40px;
+    transition: 0.3s;
+}
+
+.social-icons a:hover {
+    border: 1.5px solid #E2007A;
+    background-color: #E2007A;
+    color: white;
+    border-radius: 20%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 3px;
+    width: 40px;
+    height: 40px;
+    transition: 0.3s;
 }
 
 .toggle-container{
@@ -161,9 +200,11 @@ body{
 }
 
 .toggle{
-    background-color: #512da8;
+    background-image: linear-gradient(rgba(230, 108, 189, 0.1), rgba(236, 21, 164, 0.1), rgba(230, 108, 189, 0.1)) ,url(../../assets/sideimage.png);
+    background-position: center; 
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 100%;
-    background: linear-gradient(to right, #5c6bc0, #512da8);
     color: #fff;
     position: relative;
     left: -100%;
